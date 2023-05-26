@@ -44,5 +44,21 @@ export class PokemonListComponent {
         Type.Fire,
       ],
     },
+    {
+      image: 'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png',
+      number: 5,
+      name: 'Charmeleon',
+      types: [
+        Type.Fire,
+      ],
+    },
+    {
+      image: 'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png',
+      number: 6,
+      name: 'Charizard',
+      types: [
+        Type.Fire,
+      ],
+    },
   ]
 }
